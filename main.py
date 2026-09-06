@@ -1,3 +1,3 @@
 print("Name: Coding Beginner")
-print("Goal: Learn Python entirely on mobile")
+print("Goal: learn python")
 print("Status: In Progress...")
